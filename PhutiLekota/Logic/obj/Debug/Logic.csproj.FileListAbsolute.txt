@@ -1,0 +1,7 @@
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\Logic\bin\Debug\Logic.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\Logic\bin\Debug\Logic.pdb
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\Logic\bin\Debug\Entities.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\Logic\bin\Debug\Entities.pdb
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\Logic\obj\Debug\Logic.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\Logic\obj\Debug\Logic.pdb

@@ -1,0 +1,16 @@
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\bin\Debug\UnitTest.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\bin\Debug\UnitTest.pdb
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\bin\Debug\Entities.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\bin\Debug\Logic.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\bin\Debug\Entities.pdb
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\bin\Debug\Logic.pdb
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\obj\Debug\UnitTest.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\UnitTest\obj\Debug\UnitTest.pdb

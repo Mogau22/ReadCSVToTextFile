@@ -1,0 +1,10 @@
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\PhutiLekota\bin\Debug\PhutiLekota.exe.config
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\PhutiLekota\bin\Debug\PhutiLekota.exe
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\PhutiLekota\bin\Debug\PhutiLekota.pdb
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\PhutiLekota\bin\Debug\Entities.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\PhutiLekota\bin\Debug\Logic.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\PhutiLekota\bin\Debug\Entities.pdb
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\PhutiLekota\bin\Debug\Logic.pdb
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\PhutiLekota\obj\Debug\PhutiLekota.csprojResolveAssemblyReference.cache
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\PhutiLekota\obj\Debug\PhutiLekota.exe
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\PhutiLekota\obj\Debug\PhutiLekota.pdb

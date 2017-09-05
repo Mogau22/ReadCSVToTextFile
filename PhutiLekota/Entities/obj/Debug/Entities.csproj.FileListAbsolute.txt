@@ -1,0 +1,4 @@
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\Entities\bin\Debug\Entities.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\Entities\bin\Debug\Entities.pdb
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\Entities\obj\Debug\Entities.dll
+c:\users\phuti\documents\visual studio 2017\Projects\PhutiLekota\Entities\obj\Debug\Entities.pdb
